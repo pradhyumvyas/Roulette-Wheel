@@ -25,7 +25,7 @@ while(Game != False):
                 if (amount >= BetAmount):
 
                     if (number == BetNumber):
-                        print("\n***********ooooooohhhhhhhhhh Great You wonnnnnnn the match ******************")
+                        print("\n***********ooooooohhhhhhhhhh Great You wonnnnnnn this match ******************")
                         amount *= 50
                         print("\nGreat your amount is " + str(amount))
 
