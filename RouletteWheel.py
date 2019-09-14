@@ -1,6 +1,6 @@
 from random import randint
 
-amount = 1000
+amount = int(input("Enter Your Initial amount"))
 print("\nYour Total amount is " + str(amount) + "\n")
 bet = 0
 Game = True
